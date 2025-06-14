@@ -3,6 +3,8 @@
 ##  Objetivo
 Este repositório tem como finalidade demonstrar a automação de testes end-to-end utilizando Cypress, validando fluxos críticos e identificando bugs na aplicação.
 
+## 📎 Documentação de Testes Manuais
+ [Abrir Formulario ](https://qa-training.sbx.devsquad.app/)
 ---
 
 ##  Estrutura de Pastas
@@ -87,4 +89,5 @@ TypeError: Cannot redefine property: disabled
 ---
 
 ## 📎 Documentação de Testes Manuais
-📄 [Abrir arquivo Word com testes manuais](docs/Testes_Manuais.docx)
+📄 [Abrir arquivo PDF com testes manuais](docs\Relatorio_Teste_Manual_Heitor_Ceschin.pdf)
+
