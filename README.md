@@ -89,5 +89,5 @@ TypeError: Cannot redefine property: disabled
 ---
 
 ## 📎 Documentação de Testes Manuais
-📄 [Abrir arquivo PDF com testes manuais](docs\Relatorio_Teste_Manual_Heitor_Ceschin.pdf)
+📄 [Abrir arquivo PDF com testes manuais](https://github.com/Heitorceschin/Client-Profile-Form/blob/main/docs/Relatorio_Teste_Manual_Heitor_Ceschin.pdf)
 
